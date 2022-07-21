@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 coffee-excel.xlsx
 =======
+=======
+>>>>>>> b5404d88d17062f71e5c0725584955932c4a9316
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -130,4 +133,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
+>>>>>>> b5404d88d17062f71e5c0725584955932c4a9316
+=======
 >>>>>>> b5404d88d17062f71e5c0725584955932c4a9316
