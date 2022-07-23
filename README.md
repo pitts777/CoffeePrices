@@ -9,7 +9,7 @@ See link blow to visit page.
 # Links
 [Kaggle]( https://www.kaggle.com/datasets/psycon/daily-coffee-price)
 
-### Libraries needed to run this JupyterNote.
+### Libraries needed to run this JupyterNote. Pip install the following.
 
 * Matplotlib
 * Pandas
