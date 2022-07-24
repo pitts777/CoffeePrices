@@ -18,3 +18,10 @@ See link blow to visit page.
 * Plotly.express
 * Numpy
 * Cufflinks
+
+
+### List of Features in this Notebook.
+* I have read in a csv file with pandas.
+* I have used Matplotlib and seaborn for  visualiztion of my data
+* I have used Markdown to help guide you thought this juypter notebook.
+* 
