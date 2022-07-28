@@ -8,7 +8,7 @@ See link blow to visit page.
 
 ### Overview and how to.
 
-* In this notebook I will be using Python and and Jupyternotebook to show the daliy prices of coffee over a two year time span.
+* In this notebook I will be using Python and and Jupyternotebook to show the daliy prices of coffee over a seventeen year time span.
   We will be using libraries like pandas and matploitlib. With these tools I will take this large dataset and make it more readable and visually
   pleasing.
 
@@ -35,4 +35,4 @@ See link blow to visit page.
 * I have used Matplotlib and seaborn for  visualiztion of my data
 * I have used Markdown to help guide you thought this juypter notebook.
 * I have used Five built in Python functions to do these calculations.
-* I have used Pandas and Numpy to manipulate and clean this data.
+* I have used Pandas to manipulate and clean this data.
